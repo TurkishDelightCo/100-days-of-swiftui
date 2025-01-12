@@ -5,7 +5,7 @@ selected = "Tuesday"
 selected = "January" // problem: not weekday
 selected = "Friday "
 
-enum Weekday {   //enum example
+enum Weekday {   // enum example
     case monday
     case tuesday
     case wednesday
